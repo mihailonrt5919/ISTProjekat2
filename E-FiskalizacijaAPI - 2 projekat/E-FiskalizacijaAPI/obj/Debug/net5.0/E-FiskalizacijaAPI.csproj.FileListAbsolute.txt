@@ -1,0 +1,58 @@
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\appsettings.json
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.exe
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.deps.json
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.runtimeconfig.json
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.runtimeconfig.dev.json
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.dll
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\ref\E-FiskalizacijaAPI.dll
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.pdb
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.csproj.AssemblyReference.cache
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.AssemblyInfoInputs.cache
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.AssemblyInfo.cs
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.csproj.CoreCompileInputs.cache
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\staticwebassets\E-FiskalizacijaAPI.StaticWebAssets.Manifest.cache
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\staticwebassets\E-FiskalizacijaAPI.StaticWebAssets.xml
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\scopedcss\bundle\E-FiskalizacijaAPI.styles.css
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.RazorTargetAssemblyInfo.cache
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.csproj.CopyComplete
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.dll
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\ref\E-FiskalizacijaAPI.dll
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.pdb
+D:\VISER\IST\Projektni zadatak 2\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.genruntimeconfig.cache
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.dll
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\ref\E-FiskalizacijaAPI.dll
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.pdb
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.exe
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.deps.json
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.runtimeconfig.json
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.dll
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\ref\E-FiskalizacijaAPI.dll
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\E-FiskalizacijaAPI.pdb
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.AssemblyInfo.cs
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\staticwebassets\E-FiskalizacijaAPI.StaticWebAssets.Manifest.cache
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\staticwebassets\E-FiskalizacijaAPI.StaticWebAssets.xml
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\scopedcss\bundle\E-FiskalizacijaAPI.styles.css
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.csproj.CopyComplete
+C:\Users\mihai\Desktop\E-FiskalizacijaAPI\E-FiskalizacijaAPI\obj\Debug\net5.0\E-FiskalizacijaAPI.genruntimeconfig.cache
